@@ -12,10 +12,8 @@ About Me:
 
 
 Goals and Objectives: 
-
+Graduate with a bacholor's in Computer Science concentrating in Cyber Security from the University of North Carolina at Charlotte
 
 Projects:
-
-<!--
-**Jfrank3458/Jfrank3458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+A list of projects I've completed since 2023 at Qinetic
+https://github.com/Jfrank3458/Qinetic-Work
